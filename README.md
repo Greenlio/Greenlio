@@ -1,5 +1,4 @@
-### Hi There! 👋
-## I don't have much to say, so here's some stats!
+# What even is this?
 
 ![Greenlio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Greenlio&theme=radical)
 
