@@ -6,6 +6,6 @@
 ![Greenlio's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greenlio&theme=radical)
 
 ## Contact
-- For DMCA or legal concerns, email me at: greenlio@cock.li
+- For DMCA or legal concerns, email me at: greenlio@duck.com
 
-- For commissions or other non-important inquires, message me on discord: Greenlio#4514
+- For commissions or other non-important inquires, message me on discord: @greenlio
